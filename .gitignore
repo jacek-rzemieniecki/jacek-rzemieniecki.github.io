@@ -1,0 +1,6 @@
+# Operating system / editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/*.log
+*.swp
+*~
